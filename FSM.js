@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         FSM
-// @namespace    
+// @namespace    https://gitlab.com/claudio.sousa/
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
