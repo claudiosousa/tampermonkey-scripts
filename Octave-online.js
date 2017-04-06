@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Octave-online
+// @version      0.1
 // @match        http://octave-online.net/
 // @require      https://code.jquery.com/jquery-3.2.1.min.js
 // @grant        unsafeWindow
